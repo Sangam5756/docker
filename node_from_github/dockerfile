@@ -1,0 +1,15 @@
+FROM node
+
+
+WORKDIR /app/node_from_github
+
+RUN apt-get update && apt-get install -y git
+
+RUN git clone https://github.com/Sangam5756/cachemicroservice.git .
+
+RUN npm ci
+
+EXPOSE 3000
+
+
+CMD ["node","index.js"]

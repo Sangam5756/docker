@@ -1,0 +1,16 @@
+FROM node
+
+
+WORKDIR /app/node_bind_demo
+
+COPY . .
+
+RUN npm ci
+
+ENV PORT=3000
+
+
+
+EXPOSE 3000
+
+CMD ["npm", "start"]

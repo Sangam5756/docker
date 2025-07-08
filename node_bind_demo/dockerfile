@@ -3,9 +3,11 @@ FROM node
 
 WORKDIR /app/node_bind_demo
 
-COPY . .
+COPY . package.json
 
 RUN npm ci
+
+COPY . .
 
 ENV PORT=3000
 

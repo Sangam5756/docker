@@ -6,6 +6,7 @@ app.get("/health", (req, res) => {
   res.send("Service1 is up and running");  
 });
 
+
 app.get('/', async (req, res) => {
   try {
     const s2 = await axios.get('http://service2:3000/');

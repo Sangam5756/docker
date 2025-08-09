@@ -3,17 +3,16 @@
 # 🚀 Microservices with Docker — From Zero to Hero
 
 ## 📖 Table of Contents
-1. [What is Docker?](#what-is-docker)
-2. [Why Use Docker?](#why-use-docker)
-3. [Without Docker vs With Docker](#without-docker-vs-with-docker)
-4. [Project Overview](#project-overview)
-5. [Project Structure](#project-structure)
-6. [Installation & Setup](#installation--setup)
-7. [Building and Running Services Individually](#building-and-running-services-individually)
-8. [Using Docker Compose](#using-docker-compose)
-9. [Docker Commands Cheat Sheet](#docker-commands-cheat-sheet)
-10. [Learning Resources](#learning-resources)
-
+1. [What is Docker?](#what-is-docker-)
+2. [Why Use Docker?](#-why-use-docker)
+3. [Without Docker vs With Docker](#-without-docker-vs-with-docker)
+4. [Project Overview](#-project-overview)
+5. [Project Structure](#-project-structure)
+6. [Installation & Setup](#-installation--setup)
+7. [Building and Running Services Individually](#-building-and-running-services-individually)
+8. [Using Docker Compose](#-using-docker-compose)
+9. [Docker Commands Cheat Sheet](#-docker-commands-cheat-sheet)
+10. [Learning Resources](#-learning-resources)
 
 ---
 

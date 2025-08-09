@@ -3,7 +3,7 @@
 # 🚀 Microservices with Docker — From Zero to Hero
 
 ## 📖 Table of Contents
-1. [What is Docker?](#what-is-docker-)
+1. [What is Docker?](#what-is-docker)
 2. [Why Use Docker?](#-why-use-docker)
 3. [Without Docker vs With Docker](#-without-docker-vs-with-docker)
 4. [Project Overview](#-project-overview)
@@ -16,7 +16,7 @@
 
 ---
 
-##  What is Docker 🐳 ?
+## 🐳 What is Docker?
 
 Docker is like a **magic lunchbox** for software.
 Normally, if you move your app to another computer, you have to make sure all the tools, libraries, and settings are installed again.

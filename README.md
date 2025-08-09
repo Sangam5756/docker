@@ -17,7 +17,7 @@
 
 ---
 
-## 🐳 What is Docker?
+##  What is Docker 🐳 ?
 
 Docker is like a **magic lunchbox** for software.
 Normally, if you move your app to another computer, you have to make sure all the tools, libraries, and settings are installed again.
